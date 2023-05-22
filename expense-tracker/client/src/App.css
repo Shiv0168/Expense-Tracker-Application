@@ -1,0 +1,28 @@
+.theader {
+    color: white;
+    background-color: black;
+    border: 2px solid red;
+}
+
+.tbody {
+    color: black;
+    background-color: rgb(82, 249, 249);
+    border: 2px solid red;
+}
+
+.tbody1 {
+    color: black;
+    background-color: yellowgreen;
+    border: 2px solid red;
+}
+
+.tbody2 {
+    color: black;
+    background-color: orange;
+    border: 2px solid red;
+}
+
+.form {
+    background-image: url("./1.jpeg");
+    font-weight: bold;
+}

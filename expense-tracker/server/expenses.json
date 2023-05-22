@@ -1,0 +1,46 @@
+{
+  "items": [
+    {
+      "expenseDescription": "expense-3",
+      "payeeName": "Ramesh",
+      "price": 500,
+      "date": "2023-02-26T00:17:38.930Z",
+      "id": 3
+    },
+    {
+      "expenseDescription": "expense-2",
+      "payeeName": "Rahul",
+      "price": 200,
+      "date": "2023-02-26T00:17:38.930Z",
+      "id": 2
+    },
+    {
+      "expenseDescription": "market 1",
+      "payeeName": "Ramesh",
+      "date": "2023-05-01T00:00:00.000Z",
+      "price": 10000,
+      "id": 4
+    },
+    {
+      "expenseDescription": "picnic",
+      "payeeName": "Rahul",
+      "date": "2023-05-04T00:00:00.000Z",
+      "price": 1000,
+      "id": 5
+    },
+    {
+      "expenseDescription": "movie",
+      "payeeName": "Rahul",
+      "date": "2023-05-04T00:00:00.000Z",
+      "price": 9000,
+      "id": 6
+    },
+    {
+      "expenseDescription": "lab",
+      "payeeName": "Ramesh",
+      "date": "2023-05-22T00:00:00.000Z",
+      "price": 1000,
+      "id": 7
+    }
+  ]
+}
